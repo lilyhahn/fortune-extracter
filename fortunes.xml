@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE cache [
+<!ELEMENT cache (fortunes)>
+<!ELEMENT fortunes (#PCDATA)>
+]>
+<cache>
+<fortunes id="store">
+</cache>
